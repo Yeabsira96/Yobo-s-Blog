@@ -9,35 +9,34 @@ sidebar_position: 1
 
 ## About Me | 关于我
 
-**Name | 姓名**: [Your Name]
+**Name | 姓名**: Yeabsira Yirgu
 
-**Background | 背景**: [Tell us about yourself - where you're from, what you study, what interests you]
+**Background | 背景**: Hola,你好，ሰላም My name is Yeabsira Yirgu I am an Aspiring software engineer pursuing a dual degree between Duke University and Duke Kunshan University in Applied Mathematics/computer science.Interested in web and app development, as well as ML/Al and their applications in computer vision and robotics actively looking for work opportunities that combine machine learning and app development .
 
-**Why I'm Here | 为什么来参加**: [Why did you join this course? What motivated you?]
+**Why I'm Here | 为什么来参加**: I joined this course to enahnce my resume and to pick up some new skills
 
 ---
 
 ## My Interests | 我的兴趣
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- Travelling
+- Football
+- Trying new food
 
 ---
 
 ## Skills I Have | 我拥有的技能
 
-- **Programming | 编程**: [e.g., Python, Arduino, none yet!]
-- **Hardware | 硬件**: [e.g., circuits, soldering, beginner]
-- **Other | 其他**: [e.g., 3D design, art, photography]
+- **Programming | 编程**: Python, HTML/CSS,Java, TensorFlow, Streamlit, Git/GitHub,AI ( LLM prompting),Market Research, Technical Collaboration, Ver- sion Control Bias Detection, Qualitative Coding, Survey Design, Benchmarking.
+
 
 ---
 
 ## Skills I Want to Learn | 我想学习的技能
 
-1. [Skill 1]
-2. [Skill 2]
-3. [Skill 3]
+1. C++
+2. AI
+3. MACHINE LEARNING
 
 ---
 
@@ -47,7 +46,7 @@ Which Maker principle resonates with me most?
 
 最能引起我共鸣的 Maker 原则是什么？
 
-> [Share which principle from Day 1 you connect with and why]
+> sharing and connecting with people because it's the most effective way to learn
 
 ---
 
@@ -57,13 +56,13 @@ By the end of this course, I want to:
 
 在本课程结束时，我想要：
 
-- [ ] [Goal 1]
-- [ ] [Goal 2]
-- [ ] [Goal 3]
+- [ ] [Learn a new skill]
+- [ ] [Enhance my resume]
+- [ ] [Have a real world project i can show case]
 
 ---
 
 ## Contact | 联系方式
 
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **Email**: your.email@example.com
+- **Linkdein**: [Yeabsira Biruk](www.linkedin.com/in/yeabsira-biruk-a72a13249)
+- **Email**: yby@duke.edu
